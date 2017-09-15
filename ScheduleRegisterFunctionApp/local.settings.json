@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=aakoreascheduler;AccountKey=QyUPCVpIEbzRk2Q66M6WCX0NugWAYNAHiEotnu1k2G7t7ly4M2jPWT5HBeLt7e5jy/O6JYN9J6JGjbXUXR/xtw==;EndpointSuffix=core.windows.net",
+    "AzureSubscriptionId": "4bd04673-1e1e-4573-aca7-cd329e377dd3",
+    "AzureClientId": "1480c148-cae2-46c5-9c2b-0ccc319b9b96",
+    "AzureTenantId": "b0e828c7-fe23-479f-ab42-2ce3e150a1d5",
+    "AzureClientSecret": "TLpLJLCesj5B2bHAaayY+t64/qrzEKW/Or0u0x5lVIw=",
+    "SchedulerCollection": "aakorea_scheduler",
+    "AzureResourceGroup": "AAKoreaGroup",
+    "LogicAppEmailUrl": "https://prod-15.japanwest.logic.azure.com:443/workflows/87724926f52141ebb88670ecadcc3921/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=208qQ5A6Pgk0XH-l8IrleohtQkUTC56GqIsX13jjkxU"
+  }
+}
